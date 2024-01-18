@@ -3,7 +3,7 @@
     publish = "client"
 
 [template.environment]
-    AIRTABLE_API_KEY = "Your Account's API Key"
-    AIRTABLE_BASE_ID = "Your Base's ID"
+    AIRTABLE_API_KEY = "patIqzBAoDQ4bb39N.528fc2b11ece2f6feee104a5a422ba08406b0a6b8e4880365308c80bdc6de40e"
+    AIRTABLE_BASE_ID = "tblRMCLbbMmBOxVr8"
     PASSPHRASE = "Must provide this when loading page"
     URL_404 = "Fallback if a link is incorrect"
